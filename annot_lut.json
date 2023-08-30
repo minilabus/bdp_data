@@ -17,9 +17,16 @@
 	"SOG": 16,
 	"SPG": 17,
 	"STG": 18,
-	"T_pole": 19,
-	"AG-MFG": 20,
-	"AG-SPG": 21,
-	"AG-PoCG": 22,
-	"AG-PrCG": 23
+	"T-pole": 19,
+	"AG-IFG": 20,
+	"AG-ITG": 21,
+	"AG-MFG": 22,
+	"AG-MTG": 23,
+	"AG-PoCG": 24,
+	"AG-PrCG": 25,
+	"AG-SFG": 26,
+	"AG-SMG": 27,
+	"AG-SPG": 28,
+	"AG-STG": 29,
+	"AG-T-pole": 30
 }
